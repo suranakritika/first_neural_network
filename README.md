@@ -34,5 +34,5 @@ Windows: >> ```activate dlnd```
 
 ### Accuracy Value
 ---
-**1)Training Loss 0.056**
-**2)Validation Loss 0.145**
+..*Training Loss 0.056**
+..*Validation Loss 0.145**
